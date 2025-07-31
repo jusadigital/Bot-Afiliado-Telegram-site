@@ -16,7 +16,7 @@ O bot utiliza Selenium para interações automatizadas com os sites das platafor
 
 ## Observações
 
-Este projeto foi desenvolvido **para uso pessoal** e pode ser adaptado para outros fins, caso necessário. Orientações de enviroments estão comentadas no código.
+Este projeto foi desenvolvido **para uso pessoal** e pode ser adaptado para outros fins, principalmente levando em conta o formato dos anúncios pegos no telegram. Orientações de enviroments estão comentadas no código.
 Este projeto é de uso pessoal.
 
 **Murilo de Souza** - [GitHub](https://github.com/murilo813)
