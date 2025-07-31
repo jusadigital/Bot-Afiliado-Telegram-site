@@ -1,0 +1,4 @@
+.env
+sessao_bot.session
+sessao_bot.session-journal
+/bot/

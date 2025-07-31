@@ -1,0 +1,11 @@
+chromedriver-autoinstaller
+telethon
+requests
+selenium
+webdriver-manager
+pyperclip
+sentence-transformers==2.2.2
+huggingface_hub==0.16.4
+torch
+transformers
+psycopg2-binary
