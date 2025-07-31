@@ -4,11 +4,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LI
 
 # Bot Afiliado Telegram
 
-Este projeto é um **bot de afiliados** desenvolvido para o **Telegram**. Ele foi criado para automatizar a geração de links de afiliado de diversas plataformas de e-commerce, como **Mercado Livre**, **Shopee**, **Amazon**, **Kabum**, **Magazine Luiza** e **AliExpress**, e repostá-los em canais do Telegram. O bot utiliza ferramentas como **Selenium** para automação de navegação nas plataformas e **Telethon** para interação com o Telegram.
+Este projeto é um bot para Telegram criado com o objetivo de automatizar a geração e postagem de links de afiliado de lojas como Mercado Livre, Shopee, Amazon, Kabum, Magazine Luiza e AliExpress. Ele identifica automaticamente a loja de origem a partir de um link e gera a versão correspondente com o código de afiliado, enviando em seguida uma mensagem formatada para um canal no Telegram.
 
-## Descrição
-
-O **Bot Afiliado Telegram** tem como objetivo facilitar a postagem automática de links de afiliados, gerando links personalizados para os produtos dessas plataformas e repostando-os diretamente em canais do Telegram. O bot pode identificar automaticamente a loja de origem do link e gerar um link de afiliado correspondente.
+O bot utiliza Selenium para interações automatizadas com os sites das plataformas e Telethon para comunicação com a API do Telegram. É útil para manter canais atualizados com links de ofertas de forma contínua e com o menor esforço manual possível.
 
 ### Funcionalidades Principais:
 
@@ -18,8 +16,7 @@ O **Bot Afiliado Telegram** tem como objetivo facilitar a postagem automática d
 
 ## Observações
 
-Este projeto foi desenvolvido **para uso pessoal** e pode ser adaptado para outros fins, caso necessário. O código foi criado com o objetivo de automatizar o processo de geração de links de afiliado para facilitar a promoção de produtos.
-
+Este projeto foi desenvolvido **para uso pessoal** e pode ser adaptado para outros fins, caso necessário. Orientações de enviroments estão comentadas no código.
 Este projeto é de uso pessoal.
 
 **Murilo de Souza** - [GitHub](https://github.com/murilo813)
